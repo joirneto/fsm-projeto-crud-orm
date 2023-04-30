@@ -1,4 +1,4 @@
-# POC - crud-orm
+# POC - CRUD ORM Sequelize 
 
 POC CRUD ORM Sequelize - Objeto de estudo curso Fullstack Master do [DevPleno](https://devpleno.com).
 
